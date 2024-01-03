@@ -1,0 +1,1 @@
+import{r as e}from"./user-GNF1uiWY.js";const a=()=>e.get("/home/category/head"),g=()=>e.get("/home/hot"),s=()=>e.get("/home/new"),n=(t="1")=>e.get("/home/banner",{distributionSite:t});export{s as a,g as b,a as c,n as g};

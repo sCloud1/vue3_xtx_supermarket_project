@@ -1,0 +1,1 @@
+import{r as o}from"./user-GNF1uiWY.js";const r=t=>o.get("/category",{params:{id:t}}),a=t=>o.get("/category/sub/filter",{params:{id:t}}),s=t=>o.post("/category/goods/temporary",t);export{a,s as b,r as g};

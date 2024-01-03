@@ -1,0 +1,1 @@
+import{r}from"./user-GNF1uiWY.js";const a=(e=4)=>r.get("/goods/relevant",{params:{limit:e}}),s=e=>r.get("/member/order",{params:e}),o=e=>r.post("/member/profile/avatar",e);export{s as a,o as e,a as g};

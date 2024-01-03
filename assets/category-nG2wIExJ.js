@@ -1,0 +1,1 @@
+import{v as r,k as o}from"./index-A1qbNCIE.js";import{c as a}from"./home-jAWIzBbM.js";const l=r("categroy",()=>{const t=o([]);return{categoryList:t,getAllCategory:async()=>{const e=await a();t.value=e.data.result}}});export{l as u};
